@@ -6,8 +6,7 @@
 
 - (void)initialize
 {
-    Character*     character;
-    CCPhysicsNode* physicsNode;
+    // your code here
 }
 
 -(void)update:(CCTime)delta
